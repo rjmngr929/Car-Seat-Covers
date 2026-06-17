@@ -87,49 +87,19 @@ The project follows Clean Architecture principles for better scalability, testab
 
 ---
 
-## 📱 Screens
+ ## Project Images
 
-* Brand List Screen
-* Model List Screen (Brand-wise)
-* Seats Grid Screen (Model-wise)
-* Seat Detail Screen (Image Zoom + Manufacturer Info)
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/brands.jpeg" width="240" height="500">
+ <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/add_brand.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/models.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/add models.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/products.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/add_category.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/add_product_detail.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/out_stock.jpeg" width="240" height="500">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Car-Seat-Covers/main/product_detail.jpeg" width="240" height="500">
+</div>
 
----
-
-## 📦 Installation & Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ganesh-seat.git](https://github.com/rjmngr929/Ganesh-Seats.git
-   ```
-2. Open the project in Android Studio
-3. Allow Gradle to sync completely
-4. Run the application on an emulator or physical device
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome.
-
-* Raise issues for bugs or feature requests
-* Submit pull requests for improvements
-
----
-
-## 📄 License
-
-This project is developed for educational and internal usage purposes.
-
----
-
-## 🙏 Acknowledgements
-
-Ganesh Seat is designed using modern Android development best practices, ensuring clean code, scalability, and ease of future enhancements.
-
----
-
-**Happy Coding! 🚀**
-
-Developed By Rahul Prajapat
+## Contact
+For any help, contact: prajapat09rahul@gmail.com
